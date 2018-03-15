@@ -1,0 +1,3 @@
+[submodule "Plex-Cleaner"]
+	path = Plex-Cleaner
+	url = https://github.com/ngovil21/Plex-Cleaner
